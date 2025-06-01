@@ -1,13 +1,13 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝐙𝐄𝐑𝐎-𝐓𝐖𝐎+𝐕4.0✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2025;𝕷𝖚𝖈𝖆𝖘-𝖒𝖔𝖉-𝖉𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=836FFF&center=falso&vCenter=falso&lines=𝐙𝐄𝐑𝐎-𝐓𝐖𝐎+𝐕1.9✓;𝐁𝐎𝐓+𝐌𝐔𝐋𝐓𝐈+𝐃𝐄𝐕𝐈𝐂𝐄;1000+𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒+2025;𝕷𝖚𝖈𝖆𝖘-𝖒𝖔𝖉-𝖉𝖔𝖒𝖎𝖓𝖆✰✰✰✰✰">      
 
 <h1 align="center">
 <p>
-<img src= "https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="ZERO TWO FREE V4.0✓" width="720">
+<img src= "https://img.youtube.com/vi/POF1hvDM8Sk/0.jpg" alt="BLUX BOT FREE V1.9✓" width="720">
 </p>
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/BOT-MULTI--DEVICE-blue?style=for-the-badge" alt="BOT MULTI DEVICE"></a>
-<a href="#"><img src="https://img.shields.io/badge/Autor-@lucas_mod_domina-orange?style=for-the-badge&logo=github" alt="Autor"></a>
+<a href="#"><img src="https://img.shields.io/badge/Autor-@blux_mod_domina-orange?style=for-the-badge&logo=github" alt="Autor"></a>
 <a href="#"><img src="https://img.shields.io/badge/Versão-V4.0-orange?style=for-the-badge&logo=github" alt="Versão"></a>
 </p>
 
